@@ -20,10 +20,10 @@ class NewVisitorTest(unittest.TestCase):
         self.assertIn('Budgie Budget', self.browser.title)
 
         # She is invited to add her salary straight away
-        self.fail("Finish the functional tests!")
+
         # Testing out her desired salary of $100,000, she types it in to the
         # text field and presses ENTER.
-
+        self.fail("Finish the functional tests!")
         # Bonnie notices that the page now lists her Salary
         # alongside the amount of Tax that Bonnie can expect to pay
 
