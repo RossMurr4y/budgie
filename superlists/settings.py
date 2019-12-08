@@ -31,6 +31,10 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # budgie apps
+    'budget',
+
+    #default django apps
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
